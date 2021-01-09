@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://lon9.github.io">
+<a href="https://github.com/AiratHalitov">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=airathalitov&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://lon9.github.io">
+<a href="https://github.com/AiratHalitov">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airathalitov&theme=dark&hide=html" />
 </a>
